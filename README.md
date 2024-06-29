@@ -1,4 +1,4 @@
-Medicare is the online appointment booking website which allows user to choose and take appointment of doctors
+<b>Medicare </b> is the online appointment booking website which allows user to choose and take appointment of doctors
 as per doctor’s ratings , specialisation , availability and etc.
 
 
